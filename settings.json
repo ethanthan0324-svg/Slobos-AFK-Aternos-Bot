@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "FAKEufemio-HGWd.aternos.me",
+    "ip": "lungfish.aternos.host",
     "port": 23280,
     "version": "",
     "try-creative": false
